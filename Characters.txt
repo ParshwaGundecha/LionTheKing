@@ -3,3 +3,5 @@ Steve
 Elephant
 Tom
 Ant
+Dog
+Cat
